@@ -1,0 +1,42 @@
+#Given a string. Find whether it is a palindrome, i.e. it reads the same both left-to-right and right-to-left.
+#Output “yes” if the string is a palindrome and “no” otherwise.
+
+def palindrome(s):
+  return s == s[::-1]
+
+s = input()
+s_1 = palindrome(s)
+if s_1:
+    print("Yes, It's palindrome")
+else:
+    print("No, it's not")
+
+
+#Given three natural numbers A, B, C. Define if the triangle with such sides exists.
+#If the triangle exists - output the YES string, otherwise - output NO.
+#Triangle is a three points that are not located on a single straight line.
+
+a = int(input('введите длину стороны А: '))
+b = int(input('введите длину стороны B: '))
+c = int(input('введите длину стороны C: '))
+l = []
+l.append(a)
+l.append(b)
+l.append(c)
+l.sort()
+s = int(l[0]) + int(l[1])
+b = int(l[2])
+if s > b:
+  print('yes')
+else:
+  print('not')
+
+
+#On the input, the program gets a sequence of non-negative integers; each integer is written in a separate line.
+#The sequence ends with an integer 0, when reading which the program should end its work and output the length of the sequence (not counting the final 0).
+#Don’t read numbers following the number 0.
+
+count = 0
+while int(input()) != 0:
+  count += 1
+print(count)
