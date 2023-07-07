@@ -1,0 +1,149 @@
+#Input format:
+#The first line of input contains the original string, the second line contains the substring,
+#the positions of which you should find. The lines consist of Latin characters only.
+
+#Output format:
+#A single line with the indices (indexing starts with zero) of the occurrences of the given substring in the string,
+#separated by a space, or number -1 when the substring is absent.
+
+#Sample Input 1:
+#abacabadabaabacabadaba
+#aba
+
+#Sample Output 1:
+#0 4 8
+
+# put your python code here
+i = 0
+s = input()
+subs = input()
+number_last_iterations = len(subs) - 1
+
+printed = False
+while i < len(s) - number_last_iterations:
+    if s[i:i+len(subs)]== subs:
+        printed = True
+        print(i)
+    i += 1
+
+# printed = True
+
+if printed == False:
+    print(-1)
+
+
+
+S1 = input("Введите строку: ")
+S2 = input("Введите подстроку:")
+Count = S1.count(S2)
+print(Count)
+
+
+str1 = "This dress looks good; you have good taste in clothes."
+substr = "good"
+count1 = str1.count(substr)
+print(count1)
+
+
+
+import re
+
+s = 'aaaa'
+pattern = 'aa'
+for m in re.finditer(pattern, s):
+  print(m.start())
+
+
+s[1:3] == pattern
+
+
+
+spisok = 'aaaa'
+for i in enumerate(spisok):
+  print(i)
+
+
+a = [10, 20, 30, 40]
+for i in range(len(a)):
+  a[i] += 5
+print(a)
+
+
+#Создать две строки и если вся 1я строка присутствует во второй то удалить из второй строки первую
+import re
+
+a = 'abacabadabaabacabadaba'
+b = 'aba'
+for i in a:
+  res = re.search(a, b) and b.replace(a, '')
+print(res)
+
+
+import re
+a = 'abacabadabaabacabadaba'
+b = 'aba'
+for i in a:
+  res = re.search(a, b) and b.replace(a, '')
+print(res)
+
+
+import re
+
+s = input("Введите строку: ")
+pattern = input("Введите подстроку:")
+for m in re.finditer(pattern, s):
+  print(m.start())
+
+
+
+import re
+s = 'Finxters learn Python with Finxter'
+pattern = 'Finxter'
+
+# Method 1: re.finditer
+for m in re.finditer(pattern, s):
+  print(pattern, 'matched from position', m.start(), 'to', m.end())
+
+
+s = 'aaaa'
+substring = 'aa'
+for i in s:
+  if substring in s:
+    print(i)
+
+
+s = 'aaaa'
+subs = 'aa'
+res = []
+pos = -1
+while True:
+  pos = s.find(subs, pos + 1)
+  if pos == -1:
+    break
+  res.append(pos)
+print(res)
+
+
+
+s = 'abcdabcbacbabbcbc'
+subs = 'abc'
+start = -1
+count = 0
+while True:
+    start = s.find(subs, start + 1)
+    if start == -1:
+        break
+    count += 1
+print(count)
+
+
+
+i = 0
+s = 'aaaa'
+subs = 'aa'
+number_last_iterations = len(subs) - 1
+while i < len(s) - number_last_iterations:
+  if s[i:i+len(subs)]== subs:
+    print(i)
+  #print(i, s[i:i+len(subs)])
+  i += 1
