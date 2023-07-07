@@ -1,0 +1,110 @@
+#Write a function that takes a positive three-digit number as input and returns the sum of its digits.
+#The function should have a name digit_sum and take an argument n.
+
+a = int(input())
+b = int(input())
+c = int(input())
+print('ответ:', a + b + c)
+
+
+def digit_sum(a, b, c):
+    total = 0
+    for number in (a, b, c):
+      total += number
+    return total
+
+d = int(input())
+e = int(input())
+f = int(input())
+
+res = digit_sum(d,e,f)
+print(res)
+
+
+def digit_sum(n):
+  d1 = n % 10
+  d2 = (n % 100) // 10
+  d3 = n // 100
+  sum = d1 + d2 + d3
+  return sum
+
+
+#Digital watches display time in the h:mm:ss format (from 0:00:00 to 23:59:59), i.e. first goes the number of hours,
+#then goes the two-digit number of minutes, followed by the two-digit number of seconds. If necessary, number of minutes
+#and seconds are filled by zeroes to a two-digit number.
+
+#N seconds passed from the beginning of the day. Output what the watches will display.
+
+N = int(input('введите количество секунд:'))
+Days = N // 86400
+Hours = (N - Days * 86400) // 3600
+Minutes = (N - Days * 86400 - Hours * 3600) // 60
+Sec = (N % 360) // 60
+print('{h:02}:{m:02}:{s:02}'.format(h=Hours, m=Minutes, s=Sec))
+
+
+'{h:02}:{m:02}:{s:02}'.format(h=Hours, m=Minutes, s=Sec)
+
+
+N = int(input('введите количество секунд:'))
+MINUTE = 60
+HOUR = MINUTE * 60
+DAY = HOUR * 24
+
+Days = N // DAY
+Hours = (N % DAY) // HOUR
+Minutes = (N % HOUR) // MINUTE
+Sec = N % MINUTE
+print('{h:02}:{m:02}:{s:02}'.format(h=Hours, m=Minutes, s=Sec))
+
+
+#Print the sum of all integers from a to b (a < b).
+a = int(input())
+b = int(input())
+def sum_range(a, b):
+  count = 0
+  for i in range(a, b + 1):
+    count += i
+  return count
+print(sum_range(a, b))
+
+
+N = 129700
+N // 86400
+
+
+#res = digit_sum(d,e,f)
+
+a = d
+b = e
+c = f
+
+total = 0
+for number in (a, b, c):
+  total += number
+res = total
+
+del a
+del b
+del c
+del total
+
+
+n = input('введите число: ')
+a = int(n[0])
+b = int(n[1])
+c = int(n[2])
+sum = a + b + c
+print(sum)
+
+
+n = int(input('enter a number: '))
+sum = 0
+mult = 1
+while n > 0:
+  digit = n % 10
+  sum = sum + digit
+  mult = mult * digit
+  n = n // 10
+print('sum = ', sum)
+print('multiplication = ', mult)
