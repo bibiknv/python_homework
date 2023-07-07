@@ -1,4 +1,4 @@
-# https://stkrg/lesson/518491/step/15?auth=login&unit=510939
+# https://stepik.org/lesson/518491/step/15?auth=login&unit=510939
 # Реализуйте функцию csv_columns(), которая принимает один аргумент:
 
 # filename — название csv файла, например, data.csv
