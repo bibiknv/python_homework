@@ -1,0 +1,64 @@
+#Write a program, which reads numbers from the input (by one in a line) until the sum of these numbers will not be equal to 0,
+#and right after this outputs the sum of the squares of all read numbers.
+
+#It is guaranteed that at some moment the sum of the numbers will be equal to 0, and there is no need to continue reading after this.
+
+#In the example, we are reading numbers 1, -3, 5, -6, -10, 13; and at this moment,
+#we notice that the sum of these numbers is equal to zero, therefore we output the sum of their squares, not paying attention to the remaining numbers.
+
+a = int(input())
+sum = a
+sum_sq = abs(a**2)
+while sum != 0:
+  a = int(input())
+  sum = sum + a
+  sum_sq = sum_sq + (a**2)
+  if sum == 0:
+    break
+print(sum_sq)
+
+
+
+print(len(set(input().split())))
+
+
+#Given the list of integers, which may contain up to 100,000 numbers. Find how many different numbers are in this list.
+N = int(input())
+l = list(map(int, input().split()))
+s = set(l)
+print(len(s))
+
+
+
+#Given the values of the two moments in time in the same day: hours, minutes and seconds for each of the time moments.
+#It is known that the second moment in time happened not earlier than the first one.
+#Find how many seconds passed between these two moments of time.
+hour = int(input())
+min = int(input())
+sec = int(input())
+hour_2 = int(input())
+min_2 = int(input())
+sec_2 = int(input())
+a = hour * 60 * 60 + min * 60 + sec
+b = hour_2 * 60 * 60 + min_2 * 60 + sec_2
+c = b - a
+print('ответ в секундах:', c)
+
+#Given a real positive number a and an integer number n.
+
+#Find a^n. You need to write the whole program with a recursive function power(a, n).
+
+a = int(input())
+n = int(input())
+print('ответ:', power(a, n))
+
+def power(a, n)
+  if n == 0:
+    return 1
+  else:
+    return a * power(a, n-1)
+
+
+a = set('qwerty')
+b = frozenset('qwerty')
+a == b
