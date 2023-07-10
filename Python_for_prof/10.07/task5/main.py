@@ -1,6 +1,4 @@
-
 import csv
-
 
 def condense_csv(filename, id_name='ID'):
     with open(filename, encoding='utf-8') as file:
