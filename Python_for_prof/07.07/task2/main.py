@@ -1,11 +1,13 @@
-
 import csv
+
+
 def csv_columns(filename):
-    filename = input()
+    result_dict = {}
     with open(filename, 'r', encoding='utf-8') as file:
-        data = file.read()
         rows = csv.DictReader(file, delimiter=',')
         for row in rows:
-            print(row)
+            for key in list(row.keys()):
+                result_dict[key] = result_dict.get(key, []) + [row[key]]
+    return result_dict
 
-
+print(csv_columns('data.csv'))
