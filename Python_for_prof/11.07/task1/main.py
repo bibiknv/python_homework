@@ -18,3 +18,4 @@ with open('sorted_student_counts.csv', 'w', encoding='utf-8', newline='') as fil
     for row_new in result_list:
         writer.writerow(row_new)
 
+#Решение далось мне трудно, долго не могла понять, как подойти к задаче. Решила только на 3 день
