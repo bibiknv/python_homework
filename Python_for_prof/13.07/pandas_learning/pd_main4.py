@@ -1,3 +1,4 @@
+# https://stepik.org/lesson/518491/step/14?unit=510939
 import pandas as pd
 
 df = pd.read_csv('deniro.csv', sep=',', index_col=0)
