@@ -1,3 +1,4 @@
+# https://stepik.org/lesson/518491/step/13?unit=510939
 import pandas as pd
 
 df = pd.read_csv('salary_data.csv', sep=';', index_col=0)
