@@ -14,4 +14,5 @@ words = {
          ("pilot", "fly"): ("pailət", "flai")
         }
 
-data_json = ____
+data_json = json.dumps(words, skipkeys=True)
+print(data_json)
