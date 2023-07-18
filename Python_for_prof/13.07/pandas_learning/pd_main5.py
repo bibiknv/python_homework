@@ -2,3 +2,6 @@
 
 import pandas as pd
 
+index_row = int(input())
+df = pd.read_csv('exam.csv', sep=',', index_col=0)
+
