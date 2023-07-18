@@ -2,7 +2,7 @@
 import json
 import sys
 
-MODE = 'PROD'
+MODE = 'TEST'
 
 if MODE=='TEST':
     fin = open('test.txt')
@@ -11,6 +11,11 @@ else:
     fin = sys.stdin
     fout = sys.stdout
 
+with fin, fout:
+    dict_data = json.load(fin)
+    for key, value in dict_data.items():
+        if type(value) == list:
+            print(key, ': ', ", ".join(map(str, value)), sep = '')
+        else:
+            print(key, ': ', value, sep = '')
 
-json_data = json.loads(data)
-print(json_data)
