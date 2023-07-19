@@ -11,3 +11,4 @@ data_3 = data_first | data_second
 with open('data_merge.json', 'w') as file:
     json.dump(data_3, file, indent=3)
 
+
