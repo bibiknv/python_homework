@@ -12,7 +12,7 @@ else:
     fout = sys.stdout
 
 with fin, fout:
-    dict_data = json.load(fin)
+    dict_data = json.load(fin )
     for key, value in dict_data.items():
         if type(value) == list:
             print(key, ': ', ", ".join(map(str, value)), sep = '')
