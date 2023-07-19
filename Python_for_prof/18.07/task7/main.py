@@ -22,6 +22,6 @@ with open('data.json') as file:
             pass
 
 with open('data_out.json', 'w', encoding='utf8') as file:
-    json.dump(result_list, file, indent=3, )
+    json.dump(result_list, file)
 
 
