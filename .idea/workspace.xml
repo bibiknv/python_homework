@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5ad1c5f-59cc-4de4-a017-f23b8169dc65" name="Changes" comment="passed tasks in pandas">
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/24.07/task3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/24.07/task3/test.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/24.07/task4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/24.07/task4/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2SDDGb9SroM2tVHSRRA5VmanMnA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/d.bibik/Documents/natasha/python_homework/Python_for_prof/24.07/task3",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python_for_prof/24.07/task3" />
+      <recent name="$PROJECT_DIR$/Python_for_prof/21.07" />
+      <recent name="$PROJECT_DIR$/notebooks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python_for_prof/10.07/task4" />
+      <recent name="$PROJECT_DIR$/Python_for_prof" />
+      <recent name="$PROJECT_DIR$/python_for_prof" />
+      <recent name="$PROJECT_DIR$/07.07/task1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (6)">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/20.07/task3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/20.07/task3/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/24.07/task1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/24.07/task1/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/24.07/task2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/24.07/task2/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/24.07/task3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/24.07/task3/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/24.07/task4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/24.07/task4/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (6)" />
+        <item itemvalue="Python.main (5)" />
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5ad1c5f-59cc-4de4-a017-f23b8169dc65" name="Changes" comment="" />
+      <created>1688672162668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688672162668</updated>
+    </task>
+    <task id="LOCAL-00062" summary="passed tasks in pandas">
+      <created>1689354604650</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1689354604650</updated>
+    </task>
+    <task id="LOCAL-00063" summary="text tasks in pandas">
+      <created>1689354648336</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1689354648336</updated>
+    </task>
+    <task id="LOCAL-00064" summary="passed tasks in pandas">
+      <created>1689356475025</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1689356475025</updated>
+    </task>
+    <task id="LOCAL-00065" summary="passed tasks in pandas">
+      <created>1689673908181</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1689673908181</updated>
+    </task>
+    <task id="LOCAL-00066" summary="passed tasks in pandas">
+      <created>1689673918790</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1689673918790</updated>
+    </task>
+    <task id="LOCAL-00067" summary="passed tasks in pandas">
+      <created>1689673977282</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1689673977282</updated>
+    </task>
+    <task id="LOCAL-00068" summary="passed tasks in pandas">
+      <created>1689674066813</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1689674066813</updated>
+    </task>
+    <task id="LOCAL-00069" summary="passed tasks in pandas">
+      <created>1689674144277</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1689674144277</updated>
+    </task>
+    <task id="LOCAL-00070" summary="passed tasks in pandas">
+      <created>1689674622569</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1689674622569</updated>
+    </task>
+    <task id="LOCAL-00071" summary="passed tasks in pandas">
+      <created>1689675731991</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1689675731991</updated>
+    </task>
+    <task id="LOCAL-00072" summary="passed tasks in pandas">
+      <created>1689688426586</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1689688426586</updated>
+    </task>
+    <task id="LOCAL-00073" summary="passed tasks in pandas">
+      <created>1689688538360</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1689688538360</updated>
+    </task>
+    <task id="LOCAL-00074" summary="passed tasks in pandas">
+      <created>1689688714716</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1689688714716</updated>
+    </task>
+    <task id="LOCAL-00075" summary="passed tasks in pandas">
+      <created>1689688856991</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1689688856992</updated>
+    </task>
+    <task id="LOCAL-00076" summary="passed tasks in pandas">
+      <created>1689689612456</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1689689612456</updated>
+    </task>
+    <task id="LOCAL-00077" summary="passed tasks in pandas">
+      <created>1689689842007</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1689689842007</updated>
+    </task>
+    <task id="LOCAL-00078" summary="passed tasks in pandas">
+      <created>1689690020289</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1689690020289</updated>
+    </task>
+    <task id="LOCAL-00079" summary="passed tasks in pandas">
+      <created>1689691681929</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1689691681929</updated>
+    </task>
+    <task id="LOCAL-00080" summary="passed tasks in pandas">
+      <created>1689700294045</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1689700294045</updated>
+    </task>
+    <task id="LOCAL-00081" summary="passed tasks in pandas">
+      <created>1689700837737</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1689700837737</updated>
+    </task>
+    <task id="LOCAL-00082" summary="passed tasks in pandas">
+      <created>1689700873807</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1689700873807</updated>
+    </task>
+    <task id="LOCAL-00083" summary="passed tasks in pandas">
+      <created>1689702762227</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1689702762227</updated>
+    </task>
+    <task id="LOCAL-00084" summary="passed tasks in pandas">
+      <created>1689706984464</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1689706984464</updated>
+    </task>
+    <task id="LOCAL-00085" summary="passed tasks in pandas">
+      <created>1689771896203</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1689771896204</updated>
+    </task>
+    <task id="LOCAL-00086" summary="passed tasks in pandas">
+      <created>1689771914395</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1689771914395</updated>
+    </task>
+    <task id="LOCAL-00087" summary="passed tasks in pandas">
+      <created>1689772026509</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1689772026509</updated>
+    </task>
+    <task id="LOCAL-00088" summary="passed tasks in pandas">
+      <created>1689773314690</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1689773314690</updated>
+    </task>
+    <task id="LOCAL-00089" summary="passed tasks in pandas">
+      <created>1689773399853</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1689773399853</updated>
+    </task>
+    <task id="LOCAL-00090" summary="passed tasks in pandas">
+      <created>1689773641987</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1689773641987</updated>
+    </task>
+    <task id="LOCAL-00091" summary="passed tasks in pandas">
+      <created>1689773977409</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1689773977409</updated>
+    </task>
+    <task id="LOCAL-00092" summary="passed tasks in pandas">
+      <created>1689774261771</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1689774261771</updated>
+    </task>
+    <task id="LOCAL-00093" summary="passed tasks in pandas">
+      <created>1689775857260</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1689775857260</updated>
+    </task>
+    <task id="LOCAL-00094" summary="passed tasks in pandas">
+      <created>1689777308717</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1689777308717</updated>
+    </task>
+    <task id="LOCAL-00095" summary="passed tasks in pandas">
+      <created>1689777562677</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1689777562677</updated>
+    </task>
+    <task id="LOCAL-00096" summary="passed tasks in pandas">
+      <created>1689781168125</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1689781168125</updated>
+    </task>
+    <task id="LOCAL-00097" summary="passed tasks in pandas">
+      <created>1689781204655</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1689781204655</updated>
+    </task>
+    <task id="LOCAL-00098" summary="passed tasks in pandas">
+      <created>1689781382510</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1689781382510</updated>
+    </task>
+    <task id="LOCAL-00099" summary="passed tasks in pandas">
+      <created>1689841777850</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1689841777850</updated>
+    </task>
+    <task id="LOCAL-00100" summary="passed tasks in pandas">
+      <created>1689859894581</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1689859894581</updated>
+    </task>
+    <task id="LOCAL-00101" summary="passed tasks in pandas">
+      <created>1689862891483</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1689862891483</updated>
+    </task>
+    <task id="LOCAL-00102" summary="passed tasks in pandas">
+      <created>1689863580667</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1689863580667</updated>
+    </task>
+    <task id="LOCAL-00103" summary="passed tasks in pandas">
+      <created>1689869060629</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1689869060629</updated>
+    </task>
+    <task id="LOCAL-00104" summary="passed tasks in pandas">
+      <created>1689870492481</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1689870492481</updated>
+    </task>
+    <task id="LOCAL-00105" summary="passed tasks in pandas">
+      <created>1689949422055</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1689949422055</updated>
+    </task>
+    <task id="LOCAL-00106" summary="passed tasks in pandas">
+      <created>1689951206195</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1689951206195</updated>
+    </task>
+    <task id="LOCAL-00107" summary="passed tasks in pandas">
+      <created>1689951430913</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1689951430913</updated>
+    </task>
+    <task id="LOCAL-00108" summary="passed tasks in pandas">
+      <created>1690184331316</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1690184331316</updated>
+    </task>
+    <task id="LOCAL-00109" summary="passed tasks in pandas">
+      <created>1690185644494</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1690185644494</updated>
+    </task>
+    <task id="LOCAL-00110" summary="passed tasks in pandas">
+      <created>1690185906399</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1690185906399</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="139" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="172" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task1 29.06" />
+    <MESSAGE value="task1 18.07" />
+    <MESSAGE value="task1 19.07" />
+    <MESSAGE value="task1 20.07" />
+    <MESSAGE value="task1 21.07" />
+    <MESSAGE value="task description" />
+    <MESSAGE value="create directory" />
+    <MESSAGE value="task3 solving" />
+    <MESSAGE value="task3 passed" />
+    <MESSAGE value="task3 task" />
+    <MESSAGE value="task3 file" />
+    <MESSAGE value="task4 file" />
+    <MESSAGE value="task4 task" />
+    <MESSAGE value="task4 passed" />
+    <MESSAGE value="task6 text" />
+    <MESSAGE value="task5 text" />
+    <MESSAGE value="task2 solving" />
+    <MESSAGE value="task1 solving" />
+    <MESSAGE value="task1 passed py pandas" />
+    <MESSAGE value="task1 file result" />
+    <MESSAGE value="task1 passed" />
+    <MESSAGE value="task2 passed" />
+    <MESSAGE value="passed task1 in pandas" />
+    <MESSAGE value="text tasks in pandas" />
+    <MESSAGE value="passed tasks in pandas" />
+    <option name="LAST_COMMIT_MESSAGE" value="passed tasks in pandas" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_for_prof/13.07/pandas_learning/pd_main2.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_for_prof/18.07/task5/main.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_for_prof/20.07/task3/main.py</url>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
