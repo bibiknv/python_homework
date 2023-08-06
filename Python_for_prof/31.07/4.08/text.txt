@@ -1,0 +1,5 @@
+Рабирала теорию:
+https://stepik.org/lesson/590034/step/1?unit=584966 + https://realpython.com/python-namedtuple/
+https://stepik.org/lesson/740203/step/1?unit=741843
+
+
