@@ -2,27 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5ad1c5f-59cc-4de4-a017-f23b8169dc65" name="Changes" comment="passed tasks">
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/28.07/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task1/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task2/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task3/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task4/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task4/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task5/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task5/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task6/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task6/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/07.08/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/07.08/task1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/07.08/task1/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/07.08/task2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/07.08/task2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/07.08/task3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/07.08/task3/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/07.08/task4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/07.08/task4/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/07.08/task5/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/07.08/task5/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/07.08/task6/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/07.08/task6/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/07.08/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/08.08/task1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/08.08/task1/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_prof/24.07/task3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/24.07/task3/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_prof/25.07/task2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/25.07/task2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_prof/25.07/task3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/25.07/task3/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_prof/28.07/task1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/28.07/task1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_prof/28.07/task1/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/28.07/task1/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task1/points.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task1/points.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task1/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task2/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task2/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task3/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task3/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task4/clue_animals.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task4/clue_animals.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task4/data.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task4/data.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task4/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task4/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task4/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task5/clue_users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task5/clue_users.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task5/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task5/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task5/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task5/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task6/clue_guests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task6/clue_guests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task6/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task6/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task6/meetings.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task6/meetings.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task6/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/task6/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/31.07/4.08/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/04.08/text.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,35 +88,14 @@
       <recent name="$PROJECT_DIR$/notebooks" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python_for_prof" />
       <recent name="$PROJECT_DIR$/Python_for_prof/27.07/task1" />
       <recent name="$PROJECT_DIR$/Python_for_prof/10.07/task4" />
-      <recent name="$PROJECT_DIR$/Python_for_prof" />
       <recent name="$PROJECT_DIR$/python_for_prof" />
       <recent name="$PROJECT_DIR$/07.07/task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (3)">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/31.07/4.08" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/31.07/4.08/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main (6)">
     <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,6 +159,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/07.08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/07.08/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/07.08/task1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/07.08/task1/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python_homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,34 +222,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/31.07/4.08/task1/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (6)" />
+        <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -227,13 +243,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688672162668</updated>
-    </task>
-    <task id="LOCAL-00086" summary="passed tasks in pandas">
-      <created>1689771914395</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1689771914395</updated>
     </task>
     <task id="LOCAL-00087" summary="passed tasks in pandas">
       <created>1689772026509</created>
@@ -571,7 +580,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690881308368</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="passed tasks">
+      <created>1691335113026</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1691335113027</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -683,13 +699,17 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python_for_prof/31.07/4.08/task1/test.py</url>
+          <url>file://$PROJECT_DIR$/Python_for_prof/04.08/task1/test.py</url>
           <line>1</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python_for_prof/31.07/4.08/main.py</url>
+          <url>file://$PROJECT_DIR$/Python_for_prof/04.08/main.py</url>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_for_prof/07.08/task1/main.py</url>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
