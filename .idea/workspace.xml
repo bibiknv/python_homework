@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5ad1c5f-59cc-4de4-a017-f23b8169dc65" name="Changes" comment="passed tasks">
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/08.08/task3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/08.08/task3/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/08.08/task4/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/08.08/task4/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/08.08/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/09.08/task1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/09.08/task1/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/09.08/task2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/09.08/task2/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/09.08/task3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/09.08/task3/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/09.08/task4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/09.08/task4/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/09.08/task5/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/09.08/task5/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_prof/07.08/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/07.08/text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_prof/10.07/task4/answer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_prof/11.07/task1/student_counts.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_prof/11.07/task2/prices.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_prof/13.07/pandas_learning/sales.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_prof/18.07/task7/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_prof/20.07/task1/clue_students.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_prof/07.08/task1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/07.08/task1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,13 +212,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688672162668</updated>
-    </task>
-    <task id="LOCAL-00088" summary="passed tasks in pandas">
-      <created>1689773314690</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1689773314690</updated>
     </task>
     <task id="LOCAL-00089" summary="passed tasks in pandas">
       <created>1689773399853</created>
@@ -569,7 +549,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691504291241</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="passed tasks">
+      <created>1691586017203</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1691586017203</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="UnknownFeatures">

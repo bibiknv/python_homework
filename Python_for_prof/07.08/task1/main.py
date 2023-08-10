@@ -9,7 +9,5 @@ for id_, sum_ in data:
 for k, v in sorted(dict_data.items(), key = lambda x: x[0]):
     print(k, v)
 
-# for num in data:
-#     result[num] += 1
-#
-# print(f"{key}: ${profit[key]}")
+
+
