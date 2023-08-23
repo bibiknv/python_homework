@@ -1,0 +1,9 @@
+#isalpha() and istitle()
+
+names = ['Timur', 'Anri', 'Dima', 'Arthur', 'Ruslan']
+name = ['E', 'd', 'u', 'a', 'r', 'd']
+
+try:
+    print(get_id(names, name))
+except TypeError as e:
+    print(e)

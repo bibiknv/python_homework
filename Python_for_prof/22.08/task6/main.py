@@ -1,0 +1,3 @@
+FileNotFoundError
+
+json.decoder.JSONDecodeError
