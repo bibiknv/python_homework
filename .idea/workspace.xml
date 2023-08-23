@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5ad1c5f-59cc-4de4-a017-f23b8169dc65" name="Changes" comment="passed tasks">
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/23.08/task5/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/23.08/task5/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/23.08/task6/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/23.08/task6/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/23.08/task7/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/23.08/task7/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_prof/23.08/task1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/23.08/task1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_prof/23.08/task4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/23.08/task4/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_prof/23.08/task4/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_prof/23.08/task4/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +61,7 @@
       <recent name="$PROJECT_DIR$/python_for_prof" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (4)">
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/22.08/task1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/23.08/task7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/22.08/task1/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/23.08/task7/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (6)" />
         <item itemvalue="Python.main (5)" />
-        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -214,13 +209,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688672162668</updated>
-    </task>
-    <task id="LOCAL-00104" summary="passed tasks in pandas">
-      <created>1689870492481</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1689870492481</updated>
     </task>
     <task id="LOCAL-00105" summary="passed tasks in pandas">
       <created>1689949422055</created>
@@ -558,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692795203031</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="passed tasks">
+      <created>1692800027820</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1692800027820</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="UnknownFeatures">
