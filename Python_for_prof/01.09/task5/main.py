@@ -1,0 +1,6 @@
+def is_greater(lists, numbers):
+    pass
+
+data = [[-3, 4, 0, 1], [1, 1, -4], [0, 0], [9, 3]]
+
+print(is_greater(data, 10))

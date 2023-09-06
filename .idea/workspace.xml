@@ -2,16 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5ad1c5f-59cc-4de4-a017-f23b8169dc65" name="Changes" comment="passed tasks">
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/30.08/task1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/30.08/task1/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/30.08/task2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/30.08/task2/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/30.08/task3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/30.08/task3/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/30.08/task4/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/30.08/task4/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/30.08/task5/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/30.08/task5/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task1/main_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task1/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task3/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task4/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task5/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task5/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task6/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task6/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task7/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task7/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task8/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/task8/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/01.09/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/30.08/task6/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/30.08/task6/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.08/task1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.08/task1/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.08/task2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.08/task2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.08/task3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.08/task3/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.08/task4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/31.08/task4/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +87,7 @@
       <recent name="$PROJECT_DIR$/Python_for_prof/10.07/task4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (4)">
+  <component name="RunManager" selected="Python.main (6)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/30.08/task1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/01.09/task3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/30.08/task1/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/01.09/task3/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/30.08/task2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/01.09/task6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/30.08/task2/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/01.09/task6/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/30.08/task3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/01.09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/30.08/task3/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/01.09/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +159,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/30.08/task4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/01.09/task7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/30.08/task4/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/01.09/task7/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/01.09/task8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/01.09/task8/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,34 +214,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/30.08" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/30.08/text.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (6)" />
         <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.text" />
+        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -217,13 +235,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688672162668</updated>
-    </task>
-    <task id="LOCAL-00111" summary="passed tasks in pandas">
-      <created>1690196386941</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1690196386941</updated>
     </task>
     <task id="LOCAL-00112" summary="passed tasks in pandas">
       <created>1690196395245</created>
@@ -561,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693344186491</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="passed tasks">
+      <created>1693413264357</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1693413264358</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -715,6 +733,10 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Python_for_prof/30.08/task2/main.py</url>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_for_prof/31.08/task1/main.py</url>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
