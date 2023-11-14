@@ -2,21 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5ad1c5f-59cc-4de4-a017-f23b8169dc65" name="Changes" comment="passed tasks">
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/10.11/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/10.11/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/14.11/task1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/14.11/task1/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/14.11/task2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/14.11/task2/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/14.11/task3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/14.11/task3/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task3/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task4/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task4/main_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task4/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task5/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task5/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/14.11/task4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/14.11/task4/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task6/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task6/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task7/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task7/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task8/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task8/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task9/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task9/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/10.11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/8.11/task6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/10.11/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/8.11/task6/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/14.11/task3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/8.11/task9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/14.11/task3/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/8.11/task9/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/14.11/task2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/8.11/task8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/14.11/task2/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/8.11/task8/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/8.11/task5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/14.11/task4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/8.11/task5/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/14.11/task4/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/14.11/task1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/8.11/task7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/14.11/task1/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/8.11/task7/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,13 +217,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688672162668</updated>
-    </task>
-    <task id="LOCAL-00120" summary="passed tasks">
-      <created>1690279469541</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1690279469541</updated>
     </task>
     <task id="LOCAL-00121" summary="passed tasks">
       <created>1690286093040</created>
@@ -566,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699538081103</updated>
     </task>
-    <option name="localTasksCounter" value="169" />
+    <task id="LOCAL-00169" summary="passed tasks">
+      <created>1699958203359</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1699958203359</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="UnknownFeatures">
