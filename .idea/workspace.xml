@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5ad1c5f-59cc-4de4-a017-f23b8169dc65" name="Changes" comment="passed tasks">
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/14.11/task4/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/14.11/task4/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task6/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task6/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task7/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task7/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task8/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task8/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task9/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task9/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/15.11/task1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/15.11/task1/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/15.11/task2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/15.11/task2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/15.11/task3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/15.11/task3/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/20.11/task1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/20.11/task1/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/20.11/task2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/20.11/task2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task10/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_prof/8.11/task10/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +71,7 @@
       <recent name="$PROJECT_DIR$/Python_for_prof/10.07/task4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
+  <component name="RunManager" selected="Python.main (5)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/8.11/task6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/15.11/task2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/8.11/task6/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/15.11/task2/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,27 +114,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/8.11/task8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/8.11/task8/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/14.11/task4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/8.11/task10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/14.11/task4/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/8.11/task10/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +143,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/8.11/task7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/15.11/task3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/8.11/task7/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/15.11/task3/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_for_prof/8.11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_for_prof/8.11/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main (6)" />
+        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -217,13 +219,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688672162668</updated>
-    </task>
-    <task id="LOCAL-00121" summary="passed tasks">
-      <created>1690286093040</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1690286093040</updated>
     </task>
     <task id="LOCAL-00122" summary="passed tasks">
       <created>1690287102828</created>
@@ -561,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699958203359</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <task id="LOCAL-00170" summary="passed tasks">
+      <created>1699966259272</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1699966259272</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -773,6 +775,10 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Python_for_prof/14.11/task3/main.py</url>
           <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_for_prof/15.11/task3/main.py</url>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
